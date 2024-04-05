@@ -48,8 +48,10 @@ ____
 
 ____
 
+Google Search Blurb Image:
+
 ![Image of Search Result Blurb](https://github.com/CoderSales/IntelliJ-Keyboard-Shortcuts/assets/32943259/8a4ceed9-1659-4213-b773-66d41c3ae5d2)
 
-[where are print screen screenshot files automatically stored on Windows](https://www.google.com/search?q=where+are+print+screen+screenshot+files+automatically+stored+on+Windows&oq=where+are+print+screen+screenshot+files+automatically+stored+on+Windows&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE3NjkzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
+Google Search: [where are print screen screenshot files automatically stored on Windows](https://www.google.com/search?q=where+are+print+screen+screenshot+files+automatically+stored+on+Windows&oq=where+are+print+screen+screenshot+files+automatically+stored+on+Windows&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE3NjkzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
 
 ____
