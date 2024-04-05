@@ -24,7 +24,7 @@ IntelliJ-Keyboard-Shortcuts
 
 #### IntelliJ Menu
 
-![Image of IntelliJ Menu](/IntelliJ-Keyboard-Shortcuts/static/images/imageOfIntelliJMenu.png)
+![Image of IntelliJ Menu](/static/images/imageOfIntelliJMenu.png)
 
 ## References
 
