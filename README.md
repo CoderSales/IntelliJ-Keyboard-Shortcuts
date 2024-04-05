@@ -48,8 +48,9 @@ ____
 
 ![Image of Help Menu > Highlighted Keyboard Shortcuts](https://github.com/CoderSales/IntelliJ-Keyboard-Shortcuts/assets/32943259/4896efbc-8e10-42a9-8927-50a5a244fd76)
 
-
 [IntelliJ Keyboard Shortcuts pdf](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
+
+![Screenshot of IntelliJ Keyboard Shortcuts pdf](https://github.com/CoderSales/IntelliJ-Keyboard-Shortcuts/assets/32943259/f07dd8a1-9047-4bfa-a6b0-e6ae987fa4b6)
 
 ## References
 
