@@ -52,6 +52,8 @@ Google Search Blurb Image:
 
 ![Image of Search Result Blurb](https://github.com/CoderSales/IntelliJ-Keyboard-Shortcuts/assets/32943259/8a4ceed9-1659-4213-b773-66d41c3ae5d2)
 
+Link to site for which blurb was given: [Where are screenshots...](https://www.androidauthority.com/where-are-screenshots-saved-windows-3341260/#:~:text=However%2C%20using%20the%20Windows%2BPrint,with%20your%20Windows%20account%20name.)
+
 Google Search: [where are print screen screenshot files automatically stored on Windows](https://www.google.com/search?q=where+are+print+screen+screenshot+files+automatically+stored+on+Windows&oq=where+are+print+screen+screenshot+files+automatically+stored+on+Windows&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE3NjkzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
 
 ____
