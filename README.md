@@ -22,6 +22,10 @@ IntelliJ-Keyboard-Shortcuts
 
 `Ctrl Shift Down` Move line down
 
+#### IntelliJ Menu
+
+![Image of IntelliJ Menu](/IntelliJ-Keyboard-Shortcuts/static/images/imageOfIntelliJMenu.png)
+
 ## References
 
 [Is IntelliJ has line move shortcut like Visual Studio? | StackOverflow](https://stackoverflow.com/questions/69422749/is-intellij-has-line-move-shortcut-like-visual-studio)
