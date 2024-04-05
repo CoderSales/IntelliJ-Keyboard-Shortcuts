@@ -32,6 +32,9 @@ IntelliJ-Keyboard-Shortcuts
 
 ![Image of Highlighted Option and Keyboard Shortcut to Move Statement Up (Below Menu Option to Move Statement Down)](https://github.com/CoderSales/IntelliJ-Keyboard-Shortcuts/assets/32943259/21e94aae-aefa-4809-98db-88753fd78dc2)
 
+![Focused Image of Highlighted Option and Keyboard Shortcut to Move Statement Up (Below Menu Option to Move Statement Down)](https://github.com/CoderSales/IntelliJ-Keyboard-Shortcuts/assets/32943259/101bddd9-4514-4966-9259-08cf8f13a300)
+
+
 ## References
 
 [Is IntelliJ has line move shortcut like Visual Studio? | StackOverflow](https://stackoverflow.com/questions/69422749/is-intellij-has-line-move-shortcut-like-visual-studio)
