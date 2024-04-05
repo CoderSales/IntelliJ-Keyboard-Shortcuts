@@ -42,6 +42,10 @@ ____
 
 ____
 
+### IntelliJ Keyboard Shortcuts pdf
+
+[IntelliJ Keyboard Shortcuts pdf](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
+
 ## References
 
 [Is IntelliJ has line move shortcut like Visual Studio? | StackOverflow](https://stackoverflow.com/questions/69422749/is-intellij-has-line-move-shortcut-like-visual-studio)
