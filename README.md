@@ -16,6 +16,8 @@ IntelliJ-Keyboard-Shortcuts
 
 `Ctrl Tab` Switcher between open IntelliJ files (Brings up a list of open files)
 
+____
+
 ### Move up / down
 
 `Ctrl Shift Up` Move line up
@@ -35,6 +37,8 @@ IntelliJ-Keyboard-Shortcuts
 ____
 
 ![Focused Image of Highlighted Option and Keyboard Shortcut to Move Statement Up (Below Menu Option to Move Statement Down)](https://github.com/CoderSales/IntelliJ-Keyboard-Shortcuts/assets/32943259/101bddd9-4514-4966-9259-08cf8f13a300)
+
+____
 
 ____
 
