@@ -24,6 +24,9 @@ IntelliJ-Keyboard-Shortcuts
 
 #### IntelliJ Menu
 
+![image](https://github.com/CoderSales/IntelliJ-Keyboard-Shortcuts/assets/32943259/37a07678-e883-42a3-9208-386ee31c8b4f)
+
+
 ![Image of IntelliJ Menu](/static/images/imageOfIntelliJMenu.png)
 
 ## References
