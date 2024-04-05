@@ -18,6 +18,16 @@ IntelliJ-Keyboard-Shortcuts
 
 ____
 
+### Zoom
+
+`Alt Shift .`
+`Alt Shift ,`
+
+![Image of View Menu Highlighting Increase or Decrease Font](https://github.com/CoderSales/IntelliJ-Keyboard-Shortcuts/assets/32943259/357b43e5-40b1-4967-91a8-20922ca19e03)
+
+
+____
+
 ### Move up / down
 
 `Ctrl Shift Up` Move line `up`
