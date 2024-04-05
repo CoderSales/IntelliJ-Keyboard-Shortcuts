@@ -16,6 +16,12 @@ IntelliJ-Keyboard-Shortcuts
 
 `Ctrl Tab` Switcher between open IntelliJ files (Brings up a list of open files)
 
+### Move up / down
+
+`Ctrl Shift Up` Move line up
+
+`Ctrl Shift Down` Move line down
+
 ## References
 
-
+[Is IntelliJ has line move shortcut like Visual Studio? | StackOverflow](https://stackoverflow.com/questions/69422749/is-intellij-has-line-move-shortcut-like-visual-studio)
