@@ -44,6 +44,9 @@ ____
 
 ### IntelliJ Keyboard Shortcuts pdf
 
+![Image of Help Menu](https://github.com/CoderSales/IntelliJ-Keyboard-Shortcuts/assets/32943259/40a05931-b08a-4c4b-96de-e99ffd8eedc2)
+
+
 [IntelliJ Keyboard Shortcuts pdf](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 
 ## References
