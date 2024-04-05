@@ -24,8 +24,9 @@ IntelliJ-Keyboard-Shortcuts
 
 #### IntelliJ Menu
 
-![image](https://github.com/CoderSales/IntelliJ-Keyboard-Shortcuts/assets/32943259/37a07678-e883-42a3-9208-386ee31c8b4f)
+![Unhighlighted menu burger button](https://github.com/CoderSales/IntelliJ-Keyboard-Shortcuts/assets/32943259/c2082132-f081-441d-9e01-748b23d58875)
 
+![Highlighted menu burger button](https://github.com/CoderSales/IntelliJ-Keyboard-Shortcuts/assets/32943259/37a07678-e883-42a3-9208-386ee31c8b4f)
 
 ![Image of IntelliJ Menu](/static/images/imageOfIntelliJMenu.png)
 
